@@ -39,6 +39,9 @@ class App extends Component {
     this.setState({ search })
   }
 
+  // helllo = () => {
+  //   console.log('somechange')
+  // }
 
 
   // this is to set the value of the input
